@@ -54,6 +54,7 @@ p {
   font-size:16pt;
   font-weight: bold;
   background: darkgoldenrod;
+  cursor: pointer;
 }
 
 #clear {
@@ -64,6 +65,7 @@ p {
   font-size:16pt;
   font-weight: bold;
   background: darkgoldenrod;
+  cursor: pointer;
 }
 
 .done {
@@ -74,6 +76,7 @@ p {
   margin: 0 20px;
   border-radius: 6px;
   background: darkgoldenrod;
+  cursor: pointer;
 }
 
 li {
@@ -86,5 +89,6 @@ a {
   color: white;
   text-shadow: 2px 2px black;
   font-weight: bold;
+  cursor: pointer;
 }
 
