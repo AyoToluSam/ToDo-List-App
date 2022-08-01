@@ -35,7 +35,7 @@ h1 {
 p {
   font-size: 24px;
   margin-left: 32px;
-  color: rgb(250, 231, 214);
+  color: white;
   text-shadow: 2px 2px black;
 }
 
@@ -73,6 +73,7 @@ p {
 .delete {
   margin: 0 20px;
   border-radius: 6px;
+  background: darkgoldenrod;
 }
 
 li {
@@ -82,7 +83,8 @@ li {
 
 a {
   text-decoration: none;
-  color:rgb(250, 231, 214);
+  color: white;
+  text-shadow: 2px 2px black;
   font-weight: bold;
 }
 
